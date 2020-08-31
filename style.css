@@ -1,0 +1,25 @@
+#banner-image{position:relative;
+                        padding-top:75px;
+                        padding-bottom:51px;
+                        position:relative;
+                        text-align:center;
+                        color:#f8f8f8;
+                        background-image:url("intro-bg_1.jpg");
+                        background-repeat:no-repeat;
+                        background-position:center;
+                        background-size: cover;}
+#banner-content{position: relative;
+                          left:22%;
+                          padding-top: 6%;
+                          padding-bottom: 6%;
+                          margin-top: 12%;
+                          margin-bottom: 12%;
+                          background-color: rgba(0, 0, 0, 0.7);
+                          max-width: 660px;}
+footer{padding: 10px 0;
+           background-color: #101010;
+           color:#9d9d9d;
+           position:relative;
+           bottom: 0;
+           width: 100%;}
+
